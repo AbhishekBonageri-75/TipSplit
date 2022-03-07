@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TipSplit</string>
+    <string name="tpp">Total per Person:</string>
+    <string name="clear">Clear</string>
+    <string name="go">Go</string>
+    <string name="overage">Overage</string>
+    <string name="nop">Number of People</string>
+    <string name="ta">Tip Amount</string>
+    <string name="twt">Total with Tip</string>
+    <string name="tp">Tip Percent</string>
+    <string name="btwt">Bill Total with Tax</string>
+    <string name="p12">12%</string>
+    <string name="p15">15%</string>
+    <string name="p18">18%</string>
+    <string name="p20">20%</string>
+</resources>
